@@ -2,4 +2,4 @@
 
 Hi Everyone, this repo will provide you with the information necessary to build the robot pictured below.  
 
-![](images/car.jpg)
+![](Images/car.jpg)
