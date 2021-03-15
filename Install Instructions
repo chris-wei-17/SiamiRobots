@@ -1,0 +1,22 @@
+Clone this repo to the desktop, do not install any other packages in this directory
+
+Install ROS Melodic on your Jetson
+
+Create a new folder on the desktop named "Robot Workspace"
+
+Create catkin workspace in "Robot Workspace" by comleting ROS setup tutorial: "Installing and configuring your ROS environment"
+
+Enter your catkin_ws directory
+
+Clone the zed_ros_wrapper into the src directory ( https://github.com/stereolabs/zed-ros-wrapper )
+
+Install PyTorch using the following commands:
+	$ pip3 install torch torchvision
+	$ pip3 install -r requirements.txt
+
+Create a new branch for all cloned repos and name it for your robot
+
+
+
+Clone the specified branches
+
